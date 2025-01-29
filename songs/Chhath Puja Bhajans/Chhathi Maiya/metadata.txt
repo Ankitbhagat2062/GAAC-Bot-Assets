@@ -1,0 +1,5 @@
+Track Title : Jai Chhathi Maiya
+Artist: Sonu Nigam, Pawan Singh, Khushbhoo Jain
+Album: Jai Chhathi Maiya
+Release Date : 2021-11-03
+img: `${folderPath}/cover.jpg`, 

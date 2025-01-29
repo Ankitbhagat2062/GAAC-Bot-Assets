@@ -1,0 +1,5 @@
+Track Title :  karab chath baratiya
+Artist : Aadit Manaila, Anuradha Paudwal, Kavita Paudwal
+Album : Chhath Pooja Ke Geet
+Release Date : 2001-10-01
+img: `${folderPath}/cover.jpg`, 
