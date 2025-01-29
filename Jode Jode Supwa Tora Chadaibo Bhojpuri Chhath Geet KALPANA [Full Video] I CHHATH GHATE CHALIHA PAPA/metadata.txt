@@ -1,5 +1,0 @@
-Track Title : Jode Jode Supwa Tora Chadaibo  
-Artist: KALPANA 
-Album: CHHATH GHATE CHALIHA PAPA
-Release Date : 2014-09-14
-img: `${folderPath}/cover.jpg`, 
