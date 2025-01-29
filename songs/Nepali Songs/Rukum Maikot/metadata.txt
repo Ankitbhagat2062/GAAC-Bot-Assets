@@ -1,0 +1,5 @@
+Track Title : Rukum Maikot
+Artist: Kendra Motion Pictures/S D Yogi/Shanti Pariyar
+Album: Rukum Maikot
+Release Date : 2024-08-24
+img: `${folderPath}/cover.jpg`
