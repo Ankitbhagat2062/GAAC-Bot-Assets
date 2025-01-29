@@ -1,0 +1,5 @@
+Track Title : Barah Jyotirling
+Artist: Anuradha Paudwal
+Album: Shiv Bhajans
+Release Date : 2015-02-02
+img: `${folderPath}/cover.jpg`, 
