@@ -1,0 +1,5 @@
+Track Title : Kopi Kopi Bolle Suraj Dev
+Artist: Anuradha Paudwal
+Album: Chhath Mahima
+Release Date : 1996-10-01
+img: `${folderPath}/cover.jpg`, 
