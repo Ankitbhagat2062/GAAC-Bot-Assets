@@ -1,0 +1,5 @@
+Track Title : Sath Hi Chodawa SurajDev 
+Artist : Anuradha Paudwal, Kavita Paudwal
+Album : Chhath Pooja Ke Geet
+Release Date : 2001-10-01
+img: `${folderPath}/cover.jpg`, 
