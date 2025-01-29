@@ -1,0 +1,5 @@
+Track Title : Bhaile Araghiya Ke Ber
+Artist: Kalpana Patowary
+Album: Marbo Re Sugwa Dhanus Se
+Release Date : 2019-10-13
+img: `${folderPath}/cover.jpg`, 

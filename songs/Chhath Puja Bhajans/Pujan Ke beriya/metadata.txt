@@ -1,0 +1,5 @@
+Track Title : Aragh Ke Re Beriya
+Artist: Rakesh Mishra
+Album: Shobhela Ghat Chhathi Mai Ke
+Release Date : 2010-04-18
+img: `${folderPath}/cover.jpg`,

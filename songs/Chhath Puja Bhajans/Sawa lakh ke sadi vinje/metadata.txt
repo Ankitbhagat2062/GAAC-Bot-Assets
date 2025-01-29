@@ -1,0 +1,5 @@
+Track Title : Ghuti Bhara Dhoti Bhinje
+Artist: Anu Dubey
+Album: Hum Chhath Karab
+Release Date : 2016-09-14
+img: `${folderPath}/cover.jpg`, 
