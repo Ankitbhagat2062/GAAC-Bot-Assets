@@ -1,0 +1,5 @@
+Track Title : Jai Ganesh Deva
+Artist: Anup Jalota
+Album: Anup Jalota - The Bhajan Samraat
+Release Date : 2013-10-19
+img: `${folderPath}/cover.jpg`, 

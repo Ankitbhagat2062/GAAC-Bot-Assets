@@ -1,0 +1,5 @@
+Track Title : Siddhi Vinayak
+Artist:  Raghunath Dubey
+Album: Ganesh Bhajans
+Release Date : 2013-03-02
+img: `${folderPath}/cover.jpg`, 
