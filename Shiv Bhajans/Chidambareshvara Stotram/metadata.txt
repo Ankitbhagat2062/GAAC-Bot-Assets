@@ -1,5 +1,0 @@
-Track Title : Chidambareshvara Stotram
-Artist: Sounds of Isha
-Album: Chidambareshvara Stotram
-Release Date : 2014-04-15
-img: `${folderPath}/cover.jpg`, 

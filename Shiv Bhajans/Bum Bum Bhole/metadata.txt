@@ -1,5 +1,0 @@
-Track Title : Bum Bum Bum Bhole
-Artist: Anuradha Paudwal
-Album: Shiv Bhajan
-Release Date : 2015-02-02
-img: `${folderPath}/cover.jpg`, 
