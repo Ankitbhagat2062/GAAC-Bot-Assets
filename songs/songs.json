@@ -1,0 +1,556 @@
+{
+    "Attitude Songs": [
+        {
+            "name": "Bad Boy",
+            "artist": "Tungevaag & Raaban",
+            "album": "Hey Baby",
+            "releaseDate": "2018-08-24",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Bad%20Boy/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Bad%20Boy/audio.mp3"
+        },
+        {
+            "name": "Bloody Brasil",
+            "artist": "TENZOO",
+            "album": " BLOODY BRAZIL (Sped Up)",
+            "releaseDate": "2024-03-08",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Bloody%20Brasil/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Bloody%20Brasil/audio.mp3"
+        },
+        {
+            "name": "Close Eyes",
+            "artist": "Tobbyum",
+            "album": "Close Eyes",
+            "releaseDate": "2018-02-12",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Close%20Eyes/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Close%20Eyes/audio.mp3"
+        },
+        {
+            "name": "FODE NA 17",
+            "artist": "Mc Menor do Alvorada",
+            "album": "Fode na 17",
+            "releaseDate": "2020-11-06",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/FODE%20NA%2017/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/FODE%20NA%2017/audio.mp3"
+        },
+        {
+            "name": "Gangsta's Paradise (feat. L.V.)",
+            "artist": "Coolio, L.V.",
+            "album": "Gangsta's Paradise (feat. L.V.)",
+            "releaseDate": "1995-07-11",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Gangstas%20Paradise/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Gangstas%20Paradise/audio.mp3"
+        },
+        {
+            "name": " Thunder Imagine Dragons",
+            "artist": "Daniel Coulter Reynolds",
+            "album": " Thunder",
+            "releaseDate": "2017-04-27",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Imagine-Dragons-Thunder/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Imagine-Dragons-Thunder/audio.mp3"
+        },
+        {
+            "name": "KILLERS FROM THE NORTHSIDE",
+            "artist": " Kordhell",
+            "album": " A MILLION WAYS TO MURDER",
+            "releaseDate": "2021-09-30",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Killers%20From%20The%20Northside/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Killers%20From%20The%20Northside/audio.mp3"
+        },
+        {
+            "name": "Kosandra",
+            "artist": "Miyagi & Andy Panda",
+            "album": " A MILLION WAYS TO MURDER",
+            "releaseDate": "2021-09-30",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Kosandra/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Kosandra/audio.mp3"
+        },
+        {
+            "name": "See On Your Way",
+            "artist": "Xandy Jj(Baile Funk)",
+            "album": "See On Your Way",
+            "releaseDate": " 2023-12-20",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Montagem%20Coral/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Montagem%20Coral/audio.mp3"
+        },
+        {
+            "name": "Peaky Blinder",
+            "artist": " Malik Tayyab Official(Billy Grade )",
+            "album": "Peaky Blinder",
+            "releaseDate": "2024-01-12",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Peaky-Blinders/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Peaky-Blinders/audio.mp3"
+        },
+        {
+            "name": "SequEncia da dz7",
+            "artist": "TRASHXRL, MC MENOR DA ALVORADA",
+            "album": "SequEncia da dz7",
+            "releaseDate": "2017-09-28",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/SequEncia%20da%20dz7/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/SequEncia%20da%20dz7/audio.mp3"
+        },
+        {
+            "name": "TUCA DONKA - Slowed + Reverb",
+            "artist": "Connor, Tidiet",
+            "album": "Relax And Unwind pt.2",
+            "releaseDate": "2023-09-16",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Tuca%20Donka/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Attitude%20Songs/Tuca%20Donka/audio.mp3"
+        }
+    ],
+    "Chhath Puja Bhajans": [
+        {
+            "name": "UGA HO SURAJ DEV",
+            "artist": "Anuradha Paudwal, Kavita Paudwal",
+            "album": "Chhath Pooja Ke Geet",
+            "releaseDate": "2001-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Aadit%20Manaila/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Aadit%20Manaila/audio.mp3"
+        }, 
+        {
+            "name": "Sath Hi Chodawa SurajDev ",
+            "artist": "Anuradha Paudwal, Kavita Paudwal",
+            "album": "Chhath Pooja Ke Geet",
+            "releaseDate": "2001-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Aadit%20Manaila%201/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Aadit%20Manaila%201/audio.mp3"
+        },
+        {
+            "name": "Chhapra Chhat Manayenge",
+            "artist": " Khesari Lal Yadav", 
+            "album": "Chhapra Chhat Manayenge",
+            "releaseDate": "2023-12-04",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chapra%20Chhath%20Manayenge/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chapra%20Chhath%20Manayenge/audio.mp3"
+        },
+        {
+            "name": "karab ham chath ke baratiya",
+            "artist": "Anuradha Paudwal, Kumar Mohit, Khushboo Jain", 
+            "album": " Kara Chhath Bartiya",
+            "releaseDate": "2001-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chat-puja-song-collection-2022-t/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chat-puja-song-collection-2022-t/audio.mp3"
+        },
+        {
+            "name": "Kelwa Ke Paat Par",
+            "artist": "Sharda Sinha", 
+            "album": "Chhathi Maiya (Best Of Sharda Sinha)",
+            "releaseDate": "1986-02-06",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chath%20Puja%20Song/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chath%20Puja%20Song/audio.mp3"
+        },
+        {
+            "name": "karab chath baratiya",
+            "artist": " Aadit Manaila, Anuradha Paudwal, Kavita Paudwal", 
+            "album": "Chhath Pooja Ke Geet",
+            "releaseDate": "2001-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chhath-Puja-2019-I-Top-Chhath-Po/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chhath-Puja-2019-I-Top-Chhath-Po/audio.mp3"
+        },
+        {
+            "name": "Jai Chhathi Maiya",
+            "artist": "Sonu Nigam, Pawan Singh, Khushbhoo Jain", 
+            "album": "Jai Chhathi Maiya",
+            "releaseDate": "2021-11-03",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chhathi%20Maiya/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Chhathi%20Maiya/audio.mp3"
+        },
+        {
+            "name": "Darshan Dekhai Dihi",
+            "artist": "Kalpana Katwari", 
+            "album": "Darshan Dekhai Dihi",
+            "releaseDate": "2023-11-10",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Darshan%20Dekhai%20Daha/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Darshan%20Dekhai%20Daha/audio.mp3"
+        },
+        {
+            "name": " Diyariya Piya Ho",
+            "artist": "Anuradha Paudwal, Kavita Paudwal", 
+            "album": "Chhath Pooja Ke Geet",
+            "releaseDate": "2001-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Diyariya%20Piya%20Ho/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Diyariya%20Piya%20Ho/audio.mp3"
+        },
+        {
+            "name": "Jal Beech Khada Hoee",
+            "artist": "Vinay Bihari, Pawan Singh, Palak, Ajeet Singh, Anjani Ramagyal", 
+            "album": "Darshan Dekhava Ae Deenanath",
+            "releaseDate": "2012-10-23",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Jode%20Jode%20Falwa/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Jode%20Jode%20Falwa/audio.mp3"
+        },
+        {
+            "name": "Jode Jode Supwa Tora Chadaibo  ",
+            "artist": " KALPANA ", 
+            "album": "CHHATH GHATE CHALIHA PAPA",
+            "releaseDate": "2014-09-14",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Jode%20Jode%20Supwa%20Tora%20Chadaibo%20Bhojpuri%20Chhath%20Geet%20KALPANA%20%5BFull%20Video%5D%20I%20CHHATH%20GHATE%20CHALIHA%20PAPA/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Jode%20Jode%20Supwa%20Tora%20Chadaibo%20Bhojpuri%20Chhath%20Geet%20KALPANA%20%5BFull%20Video%5D%20I%20CHHATH%20GHATE%20CHALIHA%20PAPA/audio.mp3"
+        },
+        {
+            "name": " Kopi Kopi Bolle Suraj Dev",
+            "artist": "Anuradha Paudwal", 
+            "album": "Chhath Mahima",
+            "releaseDate": "1996-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Kopi%20Kopi%20Bolale%20SurajDev/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Kopi%20Kopi%20Bolale%20SurajDev/audio.mp3"
+        },
+        {
+            "name": "Maarbo Re Sugva Dhanuk chhath puja - Radio Edit",
+            "artist": " Nikhil Singh", 
+            "album": "Chhath Mahima",
+            "releaseDate": "1996-10-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/marab%20aur%20sagaba/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/marab%20aur%20sagaba/audio.mp3"
+        },
+        {
+            "name": "Pujan Ke Beriya",
+            "artist": "Rakesh Mishra",
+            "album": "Shobhela Ghat Chhathi Mai Ke",
+            "releaseDate": "2010-04-18",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Pujan%20Ke%20beriya/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Pujan%20Ke%20beriya/audio.mp3"
+        },
+        {
+            "name": "Sawa lakh ke sadi vinje",
+            "artist": "Anu Dubey",
+            "album": "Hum Chhath Karab",
+            "releaseDate": "2016-09-14",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Sawa%20lakh%20ke%20sadi%20vinje/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Sawa%20lakh%20ke%20sadi%20vinje/audio.mp3"
+        },
+        {
+            "name": "Bhaile Araghiya Ke Ber",
+            "artist": "Kalpana Patowary",
+            "album": "Marbo Re Sugwa Dhanus Se",
+            "releaseDate": "2019-10-13",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Vail%20Aghariya%20Ke%20ber/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Chhath%20Puja%20Bhajans/Vail%20Aghariya%20Ke%20ber/audio.mp3"
+        }
+    ],
+    "Nepali Songs": [
+        {
+            "name": "Bardali",
+            "artist": "Sushant KC",
+            "album": "Bardali",
+            "releaseDate": "2024-10-29",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Bardali/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Bardali/audio.mp3"
+        },
+        {
+            "name": "Dhanyawad Mayalu",
+            "artist": "Mahesh Kafle",
+            "album": "Dhanyawad Mayalu",
+            "releaseDate": "2024-11-21",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Dhanyabad%20Mayalu/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Dhanyabad%20Mayalu/audio.mp3"
+        },
+        {
+            "name": "Gajalu",
+            "artist": "Sushant KC",
+            "album": "Gajalu",
+            "releaseDate": "2023-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Gajalu/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Gajalu/audio.mp3"
+        },
+        {
+            "name": "Jhyal Bata",
+            "artist": "Sushant KC",
+            "album": "Jhyal Bata",
+            "releaseDate": "2023-12-03",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Jhyal%20Bata/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Jhyal%20Bata/audio.mp3"
+        },
+        {
+            "name": "Juni Juni Bharilai(From 'Dukhi Aatma')",
+            "artist": "Ketan Chhetri/Muna Thatal",
+            "album": "Juni Juni Bharilai(From 'Dukhi Aatma')",
+            "releaseDate": "2025-01-28",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Juni%20Juni/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Juni%20Juni/audio.mp3"
+        },
+        {
+            "name": "Ma Ta Dhale",
+            "artist": "Shanta Rani Pariyar",
+            "album": "Ma Ta Dhale Dhale",
+            "releaseDate": "2024-08-22",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Ma%20ta%20Dhale/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Ma%20ta%20Dhale/audio.mp3"
+        },
+        {
+            "name": "Namaste Dhogdiya",
+            "artist": "Kabita Khatri/Khem Century",
+            "album": "Dhogdiya",
+            "releaseDate": "2024-12-30",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Namaste%20Dhogdiya/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Namaste%20Dhogdiya/audio.mp3"
+        },
+        {
+            "name": "Gantabya",
+            "artist": "Ghanshyam Ghimire",
+            "album": "Gantabya",
+            "releaseDate": "2024-06-07",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Gantabya/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Gantabya/audio.mp3"
+        },
+        {
+            "name": "Paraana (From 'Ae Mero Hajur 3')",
+            "artist": "Anju Panta/Ashish Aviral",
+            "album": "Paraana (From 'Ae Mero Hajur 3')",
+            "releaseDate": "2019-03-21",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Parana/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Parana/audio.mp3"
+        },
+        {
+            "name": "Roka Yo Samay",
+            "artist": "Tribal Rain( Rahul Rai, Kenneth Adhikari, Prawes Lama and Sushant Ghatani)",
+            "album": "Roka Yo Samay",
+            "releaseDate": "2017-09-28",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Roka%20Yo%20Samay/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Roka%20Yo%20Samay/audio.mp3"
+        },
+        {
+            "name": "Rukum Maikot",
+            "artist": "Kendra Motion Pictures/S D Yogi/Shanti Pariyar",
+            "album": "Rukum Maikot",
+            "releaseDate": "2024-08-24",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Rukum%20Maikot/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nepali%20Songs/Rukum%20Maikot/audio.mp3"
+        }
+    ],
+    "Nonstop Ganesh Bhajan": [
+        {
+            "name": "Bolo Jai Ganesh Deva",
+            "artist": "Anup Jalota",
+            "album": "Anup Jalota - The Bhajan Samraat",
+            "releaseDate": "2013-10-19",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Bolo%20Jai%20Ganesh%20Deva/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Bolo%20Jai%20Ganesh%20Deva/audio.mp3"
+        },
+        {
+            "name": "Deva Hey Lambodar Swami",
+            "artist": "Prabhanjay Chaturvedi",
+            "album": "Ganesh Bhajans",
+            "releaseDate": "2013-03-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Deva%20Lambodar%20Swami/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Deva%20Lambodar%20Swami/audio.mp3"
+        },
+        {
+            "name": "Ganpati Aaya Ghar Ghar Mein",
+            "artist": " Ranjan Debnath 'Ranj'",
+            "album": "Ganpati Bappa Pyare Pyare ",
+            "releaseDate": "2014-01-07",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Aaya%20Ghar%20Ghar%20Me/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Aaya%20Ghar%20Ghar%20Me/audio.mp3"
+        },
+        {
+            "name": "Ganpati Deva",
+            "artist": "Sourabh Shaleen,Pallavi Roy",
+            "album": "Ganesh Bhajans",
+            "releaseDate": "2018-09-07",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Deva/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Deva/audio.mp3"
+        },
+        {
+            "name": "Hey Ganpati Gajraj Mere",
+            "artist": "Das Prem",
+            "album": " Gauri Ganesh",
+            "releaseDate": "2019-08-29",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Gajraj%20Mere/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Gajraj%20Mere/audio.mp3"
+        },
+        {
+            "name": "Ganpati Ki Jai Jaikar ",
+            "artist": "Children",
+            "album": "Ganesha",
+            "releaseDate": "2011-01-07 ",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20ki%20Jaikar/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20ki%20Jaikar/audio.mp3"
+        },
+        {
+            "name": "Ganpati Mere Hriday Mein Ao",
+            "artist": "Torsha Sarkar",
+            "album": "Prabhu Vandan",
+            "releaseDate": "2013-01-25",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Mere%20Hirdaya%20Me/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Ganpati%20Mere%20Hirdaya%20Me/audio.mp3"
+        },
+        {
+            "name": "Gauri Ganesh",
+            "artist": "Das Prem",
+            "album": "Gauri Ganesh",
+            "releaseDate": "2019-08-29",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Gauri%20Ganesh/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Gauri%20Ganesh/audio.mp3"
+        },
+        {
+            "name": "Jai Ganesh Deva",
+            "artist": "Suresh Wadkar / Lalitya Munshaw",
+            "album": "Shubh Dipawali",
+            "releaseDate": "2011-08-21",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Jay%20Ganesh%20Deva/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Jay%20Ganesh%20Deva/audio.mp3"
+        },
+        {
+            "name": "Mooladhar Se Nikli Dhar",
+            "artist": "Anup Jalota & Monica Jalota",
+            "album": " Ganesh Bhajans",
+            "releaseDate": "2014-12-12",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Mooldhar%20Se%20Nikli/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Mooldhar%20Se%20Nikli/audio.mp3"
+        },
+        {
+            "name": "Jai Ganesh Jai Ganesh Arti",
+            "artist": "Tripti Shakya",
+            "album": "Jai Ganesh Jai Ganesh Arti",
+            "releaseDate": "2020-05-25",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Non%20Stop%20Ganesh%20Bhajan%20_%20Ganesh%20Bhajans%20_%20%40bhajanindia/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Non%20Stop%20Ganesh%20Bhajan%20_%20Ganesh%20Bhajans%20_%20%40bhajanindia/audio.mp3"
+        },
+        {
+            "name": "Roop Tumhara Bada Vishala",
+            "artist": "Lalitya Munshaw",
+            "album": "Vinayaka",
+            "releaseDate": "2020-05-25",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Roop%20tumahara%20Bada%20Bishala/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Roop%20tumahara%20Bada%20Bishala/audio.mp3"
+        },
+        {
+            "name": "Shendur Lal Chadhayo",
+            "artist": "Lalitya Munshaw",
+            "album": "Gajanana",
+            "releaseDate": "2011-08-21",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Shendur%20lal%20Chadhayo/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Shendur%20lal%20Chadhayo/audio.mp3"
+        },
+        {
+            "name": "Shree Ganesh Deva",
+            "artist": "Shankar Mahadevan",
+            "album": "Devotional Gems By Shankar Mahadevan",
+            "releaseDate": "2016-09-03",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Shri%20Ganesh%20Deva/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Shri%20Ganesh%20Deva/audio.mp3"
+        },
+        {
+            "name": "Siddhi Vinayak",
+            "artist": "Raghunath Dubey",
+            "album": "Ganesh Bhajans",
+            "releaseDate": "2013-03-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Siddhi%20Binayak/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Siddhi%20Binayak/audio.mp3"
+        },
+        {
+            "name": "Sukhkarta Dukhharta",
+            "artist": "Lalitya Munshaw",
+            "album": "Devotional Gems By Lalitya Munshaw",
+            "releaseDate": "2011-08-21",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Sukhharta/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Sukhharta/audio.mp3"
+        },
+        {
+            "name": "Vakratunda Mahakaya",
+            "artist": "Lalitya Munshaw",
+            "album": "Ganesha",
+            "releaseDate": "2014-01-07",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Vatrakuntha/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Nonstop%20Ganesh%20Bhajan/Vatrakuntha/audio.mp3"
+        }
+    ],
+    "Shiv Bhajans": [
+        {
+            "name": "Agad Bam Bagad Bam",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajans",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/AgadBam%20BagadBam/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/AgadBam%20BagadBam/audio.mp3"
+        },
+        {
+            "name": "Barah Jyotirling",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajans",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Barah%20Joytirling/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Barah%20Joytirling/audio.mp3"
+        },
+        {
+            "name": "Bhole Shankar",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajans",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Bhole%20Shankar/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Bhole%20Shankar/audio.mp3"
+        },
+        {
+            "name": "Bum Bum Bum Bhole",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajan",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Bum%20Bum%20Bhole/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Bum%20Bum%20Bhole/audio.mp3"
+        },
+        {
+            "name": "Chidambareshvara Stotram",
+            "artist": "Sounds of Isha",
+            "album": "Chidambareshvara Stotram",
+            "releaseDate": "2014-04-15",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Chidambareshvara%20Stotram/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Chidambareshvara%20Stotram/audio.mp3"
+        },
+        {
+            "name": "Shiv Shankar Ko Jisne Pooja",
+            "artist": "Gulshan Kumar,Hariharan",
+            "album": "Gulshan Kumar Shiv Bhajans",
+            "releaseDate": "1991-01-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Gulshan%20Kumar%20shiv%20Bhajan/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Gulshan%20Kumar%20shiv%20Bhajan/audio.mp3"
+        },
+        {
+            "name": "Ho Bhole Mahima Teri Apaar",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajan",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Ho%20Bhole%20Mahima%20Teri%20Apar/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Ho%20Bhole%20Mahima%20Teri%20Apar/audio.mp3"
+        },
+        {
+            "name": "Shiv Dhun - Om Namah Shivaya Har Har Bhole",
+            "artist": "Manoj Mishra",
+            "album": "Shiv Bhajan",
+            "releaseDate": "2020-01-01",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Nonstop%20Shiv%20Bhajan/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Nonstop%20Shiv%20Bhajan/audio.mp3"
+        },
+        {
+            "name": "Pyare Pyare Bhole",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajan",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Pyare%20Pyare%20Bhole%20Baba/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Pyare%20Pyare%20Bhole%20Baba/audio.mp3"
+        },
+        {
+            "name": "Shiva Shivaya",
+            "artist": "Traditional, Sounds of Isha",
+            "album": "Shiva Jaap",
+            "releaseDate": "2024-07-04",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Shiva-Shiva-Shivaya/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Shiva-Shiva-Shivaya/audio.mp3"
+        },
+        {
+            "name": "Shiva-Stotram",
+            "artist": "Sounds of Isha",
+            "album": "In The Lap Of The Master",
+            "releaseDate": "2009-03-05",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Shiva-Stotram/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Shiva-Stotram/audio.mp3"
+        },
+        {
+            "name": "Sun Sun Manwa",
+            "artist": "Anuradha Paudwal",
+            "album": "Shiv Bhajans ",
+            "releaseDate": "2015-02-02",
+            "img": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Sun%20Sun%20Manwa/cover.jpg",
+            "song": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/songs/Shiv%20Bhajans/Sun%20Sun%20Manwa/audio.mp3"
+        }
+    ]
+}
