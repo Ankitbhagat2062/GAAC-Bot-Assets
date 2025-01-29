@@ -1,0 +1,5 @@
+Track Title : Gangsta's Paradise (feat. L.V.)
+Artist: Coolio, L.V.
+Album: Gangsta's Paradise (feat. L.V.)
+Release Date : 1995-07-11
+img: `${folderPath}/cover.jpg`, 

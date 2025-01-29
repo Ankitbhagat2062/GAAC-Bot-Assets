@@ -1,0 +1,6 @@
+
+Track Title : Thunder Imagine Dragons
+Artist: Daniel Coulter Reynolds
+Album: Thunder
+Release Date : 2017-04-27
+img: `${folderPath}/cover.jpg`
