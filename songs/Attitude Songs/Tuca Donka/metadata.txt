@@ -1,0 +1,5 @@
+Track Title : TUCA DONKA - Slowed + Reverb
+Artist: Connor, Tidiet
+Album: Relax And Unwind pt.2
+Release Date : 2023-09-16
+img: `${folderPath}/cover.jpg`, 

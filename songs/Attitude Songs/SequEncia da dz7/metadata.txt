@@ -1,0 +1,5 @@
+Track Title : SequEncia da dz7
+Artist: TRASHXRL, MC MENOR DA ALVORADA
+Album: Roka Yo Samay
+Release Date : 2017-09-28
+img: `${folderPath}/cover.jpg`
