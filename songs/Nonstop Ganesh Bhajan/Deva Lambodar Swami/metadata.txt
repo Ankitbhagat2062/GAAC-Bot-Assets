@@ -1,0 +1,5 @@
+Track Title : Deva Hey Lambodar Swami
+Artist:  Prabhanjay Chaturvedi
+Album: Ganesh Bhajans
+Release Date : 2013-03-02
+img: `${folderPath}/cover.jpg`, 

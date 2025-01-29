@@ -1,0 +1,5 @@
+Track Title : Ganpati Deva
+Artist:  Sourabh Shaleen,Pallavi Roy
+Album: Ganesh Bhajans
+Release Date : 2018-09-07
+img: `${folderPath}/cover.jpg`, 
