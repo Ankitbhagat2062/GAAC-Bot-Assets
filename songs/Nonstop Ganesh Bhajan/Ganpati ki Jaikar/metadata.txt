@@ -1,0 +1,5 @@
+Track Title : Ganpati Ki Jai Jaikar 
+Artist: Children
+Album: Ganesha
+Release Date : 2011-01-07 
+img: `${folderPath}/cover.jpg`, 

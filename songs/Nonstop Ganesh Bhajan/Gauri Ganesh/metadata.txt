@@ -1,0 +1,5 @@
+Track Title : Gauri Ganesh
+Artist:  Das Prem
+Album: Gauri Ganesh
+Release Date : 2019-08-29
+img: `${folderPath}/cover.jpg`, 

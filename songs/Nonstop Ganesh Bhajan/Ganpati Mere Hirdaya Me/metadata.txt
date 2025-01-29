@@ -1,0 +1,5 @@
+Track Title : Ganpati Mere Hriday Mein Ao
+Artist: Torsha Sarkar
+Album: Prabhu Vandan
+Release Date : 2013-01-25
+img: `${folderPath}/cover.jpg`, 
