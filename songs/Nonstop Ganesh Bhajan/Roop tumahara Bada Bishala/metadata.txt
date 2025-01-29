@@ -1,0 +1,5 @@
+Track Title : Roop Tumhara Bada Vishala
+Artist: Lalitya Munshaw
+Album: Vinayaka
+Release Date : 2020-05-25
+img: `${folderPath}/cover.jpg`, 
