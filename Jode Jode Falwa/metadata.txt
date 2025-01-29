@@ -1,0 +1,5 @@
+Track Title : Jal Beech Khada Hoee
+Artist: Vinay Bihari, Pawan Singh, Palak, Ajeet Singh, Anjani Ramagya
+Album: Daras Dekhava Ae Deenanath
+Release Date : 2012-10-23
+img: `${folderPath}/cover.jpg`
