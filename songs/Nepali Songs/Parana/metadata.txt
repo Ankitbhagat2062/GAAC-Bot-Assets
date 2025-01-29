@@ -1,0 +1,5 @@
+Track Title : Paraana (From "Ae Mero Hajur 3")
+Artist: Anju Panta/Ashish Aviral
+Album: Paraana (From "Ae Mero Hajur 3")
+Release Date : 2019-03-21
+img: `${folderPath}/cover.jpg`

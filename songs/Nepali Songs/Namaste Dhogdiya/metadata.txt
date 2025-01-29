@@ -1,0 +1,5 @@
+Track Title : Namaste Dhogdiya
+Artist: Kabita Khatri/Khem Century
+Album: Dhogdiya
+Release Date : 2024-12-30
+img: `${folderPath}/cover.jpg` 

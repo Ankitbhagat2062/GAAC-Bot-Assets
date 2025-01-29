@@ -1,0 +1,5 @@
+Track Title : Bardali
+Artist:Sushant KC
+Album: Roka Yo Samay
+Release Date : 2024-10-29
+img: `${folderPath}/cover.jpg`
