@@ -1,0 +1,5 @@
+Track Title : Shendur Lal Chadhayo
+Artist: Lalitya Munshaw
+Album: Gajanana
+Release Date : 2011-08-21
+img: `${folderPath}/cover.jpg`, 

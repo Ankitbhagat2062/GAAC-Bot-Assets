@@ -1,0 +1,5 @@
+Track Title : Sukhkarta Dukhharta
+Artist: Lalitya Munshaw
+Album: Devotional Gems By Lalitya Munshaw
+Release Date : 2011-08-21
+img: `${folderPath}/cover.jpg`, 

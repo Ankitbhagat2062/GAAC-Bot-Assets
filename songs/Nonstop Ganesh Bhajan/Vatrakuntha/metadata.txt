@@ -1,0 +1,5 @@
+Track Title : Vakratunda Mahakaya
+Artist: Lalitya Munshaw
+Album: Ganesha
+Release Date : 2014-01-07
+img: `${folderPath}/cover.jpg`, 
