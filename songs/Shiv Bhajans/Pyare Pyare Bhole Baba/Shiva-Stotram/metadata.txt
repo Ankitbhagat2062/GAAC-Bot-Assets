@@ -1,0 +1,5 @@
+Track Title : Shiva-Stotram
+Artist : Sounds of Isha
+Album : In The Lap Of The Master
+Release Date : 2009-03-05
+img: `${folderPath}/cover.jpg`, 
