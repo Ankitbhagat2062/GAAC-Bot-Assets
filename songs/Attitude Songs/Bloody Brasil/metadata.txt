@@ -1,0 +1,5 @@
+Track Title : BLOODY BRAZIL (Sped Up)
+Artist: TENZOO
+Album: BLOODY BRAZIL (Sped Up)
+Release Date : 2024-03-08
+img: `${folderPath}/cover.jpg`, 

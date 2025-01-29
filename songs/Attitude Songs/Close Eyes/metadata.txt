@@ -1,0 +1,5 @@
+Track Title : Close Eyes
+Artist: Tobbyum
+Album: Close Eyes
+Release Date :2018-02-12
+img: `${folderPath}/cover.jpg`, 

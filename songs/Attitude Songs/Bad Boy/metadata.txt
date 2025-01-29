@@ -1,0 +1,5 @@
+Track Title : Bad Boy (feat. Luana Kiara)
+Artist: Tungevaag & Raaban
+Album: Hey Baby
+Release Date : 2018-08-24
+img: `${folderPath}/cover.jpg`, 

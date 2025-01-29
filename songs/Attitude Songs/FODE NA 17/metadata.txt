@@ -1,0 +1,5 @@
+Track Title : Fode na 17
+Artist: Mc Menor do Alvorada
+Album: Fode na 17
+Release Date : 2020-11-06
+img: `${folderPath}/cover.jpg`, 
