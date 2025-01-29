@@ -1,0 +1,5 @@
+Track Title : Jhyal Bata
+Artist:Sushant KC
+Album: Jhyal Bata
+Release Date : 2023-12-03
+img: `${folderPath}/cover.jpg`

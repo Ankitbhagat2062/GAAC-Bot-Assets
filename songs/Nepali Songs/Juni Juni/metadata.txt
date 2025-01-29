@@ -1,0 +1,5 @@
+Track Title : Juni Juni Bharilai(From "Dukhi Aatma")
+Artist: Ketan Chhetri/Muna Thatal
+Album: Juni Juni Bharilai(From "Dukhi Aatma")
+Release Date : 2025-01-28
+img: `${folderPath}/cover.jpg`

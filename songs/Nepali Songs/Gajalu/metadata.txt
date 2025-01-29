@@ -1,0 +1,5 @@
+Track Title : Gajalu
+Artist:Sushant KC
+Album: Gajalu
+Release Date :2023-02-02
+img: `${folderPath}/cover.jpg`
